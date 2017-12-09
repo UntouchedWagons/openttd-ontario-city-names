@@ -1,0 +1,6 @@
+##grflangid 00
+
+STR_GRF_NAME						:Ontario Town Names
+STR_GRF_DESCRIPTION					:{BLACK}Description: {SILVER}From {BLUE}'Acton' {SILVER}to {BLUE}'Wyoming,' {SILVER}~250 real town names taken from Ontario, Canada.{}{}{BLACK}Copyright: {SILVER}{COPYRIGHT} 2017 by UntouchedWagons{}{BLACK}Version: {SILVER}1 [2017-12-09]{}{BLACK}License: {SILVER}CC-BY-SA 3.0{}
+
+STR_GAME_OPTIONS_TOWN_NAME_ONTARIO	:Ontario
